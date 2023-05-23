@@ -3,7 +3,7 @@
     "username": "reedvogt_user",
     "password": "pfzpgwLIbBGvg1atltIDU34Ea3wwxOQQ",
     "database": "reedvogt",
-    "host": "localhost",
+    "host": "dpg-chijof2k728hm244594g-a",
     "port": 5432,
     "dialect": "postgres"
   },
