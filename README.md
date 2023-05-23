@@ -4,7 +4,7 @@ Code Fellows - Code 401 - Class 06 Lab
 
 - server deploy:
 
-  - [BasicDeploy]()
+  - [BasicDeploy](https://basic-auth-odlm.onrender.com/)
 
 - Github Actions:
 
@@ -16,11 +16,13 @@ Code Fellows - Code 401 - Class 06 Lab
 
 ## Server
 
-URL: 
+URL: https://basic-auth-odlm.onrender.com/
 
-Endpoint: /
+Endpoint: /signup
+Endpoint: /signin
+Endpoint: /login
 
-Example: 
+Example: https://basic-auth-odlm.onrender.com/signup
 
 ## UML Architecture
 

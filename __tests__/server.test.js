@@ -63,7 +63,7 @@ describe('Testing if server handles requests properly', () => {
 
   // Test for signin request with invalid credentials
   test('Should FAIL on POST to /signin with invalid credentials', async () => {
-    const response = await request.post('/signin').set('Authorization', `Basic ${base64.encode(`reedvogt_user:Olivervogt1`)}`);
+    const response = await request.post('/signin').set('Authorization', `Basic ${base64.encode(`reedvogt_user:Olivervogt123`)}`);
     expect(response.status).toEqual(500);
   })
 
