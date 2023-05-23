@@ -1,9 +1,10 @@
 {
   "development": {
     "username": "reedvogt_user",
-    "password": null,
+    "password": "pfzpgwLIbBGvg1atltIDU34Ea3wwxOQQ",
     "database": "reedvogt",
-    "host": "127.0.0.1",
+    "host": "localhost",
+    "port": 5432,
     "dialect": "postgres"
   },
   "test": {
