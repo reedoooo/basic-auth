@@ -8,11 +8,11 @@ Code Fellows - Code 401 - Class 06 Lab
 
 - Github Actions:
 
-  - [Actions]()
+  - [Actions](https://github.com/reedoooo/basic-auth/actions)
 
 - Pull Requests:
 
-  - [PR1]()
+  - [PRS](https://github.com/reedoooo/basic-auth/pulls)
 
 ## Server
 
@@ -24,7 +24,7 @@ Example:
 
 ## UML Architecture
 
-![UML Architecture](./UML-diagram.JPG)
+![UML Architecture](./UML-diagram.jpeg)
 
 ## Takeaways
 
