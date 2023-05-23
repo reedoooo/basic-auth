@@ -1,4 +1,4 @@
-# api-server
+# basic-auth
 
 Code Fellows - Code 401 - Class 06 Lab
 
